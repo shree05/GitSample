@@ -9,7 +9,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         /*
-        this is my first commit after adding git in ubantu
+        11this is my first commit after adding git in ubantu
          */
         setContentView(R.layout.activity_main);
     }
